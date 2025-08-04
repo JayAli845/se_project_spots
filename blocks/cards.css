@@ -1,5 +1,8 @@
 .cards {
   padding-top: 20px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .cards__list {

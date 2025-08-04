@@ -2,14 +2,15 @@
 
 ### Overview
 
-- Intro
+- Description
 - Figma
 - Images
 - Tech Stack
+- Deployment
 
-**Intro**
+**Description**
 
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+This project is made so all the elements are displayed correctly on popular screen sizes. Showing the different pieces and transtitions working across various scrren sizes. Technologies used range from flexbox, transitions, image importing.
 
 **Figma**
 
@@ -25,4 +26,8 @@ The way you'll do this at work is by exporting images directly from Figma — we
 - CSS
 - Responsive Design
 
-Good luck and have fun!
+**Deployment**
+
+This webpage is deployed to GitHub Pages
+
+- [Depoyment Link](https://jayali845.github.io/se_project_spots/)
