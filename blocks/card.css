@@ -14,10 +14,11 @@
 }
 
 .card__title {
+  margin: 0;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
-  max-width: 413px;
+  max-width: 353px;
   font-weight: 500;
   line-height: 120%;
   font-size: 20px;
@@ -45,17 +46,11 @@
   .card__image {
     height: 288px;
     width: 288px;
-    border-radius: 8px;
   }
 
   .card__title {
-    margin: 0 auto;
-  }
-
-  .card__like-button {
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
+    font-size: 16px;
+    line-height: 100%;
   }
 }
 
@@ -67,10 +62,5 @@
   .card__image {
     margin: 0 auto;
     max-height: 90%;
-    max-width: 90%;
-  }
-
-  .card__like-button {
-    margin: 0 auto;
   }
 }

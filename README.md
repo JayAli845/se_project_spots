@@ -31,3 +31,7 @@ The way you'll do this at work is by exporting images directly from Figma — we
 This webpage is deployed to GitHub Pages
 
 - [Depoyment Link](https://jayali845.github.io/se_project_spots/)
+
+**Video Link**
+
+- https://drive.google.com/file/d/151877BPmNCWZtVJ7PJoZ9I3qmIodmkpP/view?usp=drive_link
