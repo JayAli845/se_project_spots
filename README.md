@@ -10,7 +10,7 @@
 
 **Description**
 
-This project is made so all the elements are displayed correctly on popular screen sizes. Showing the different pieces and transtitions working across various scrren sizes. Technologies used range from flexbox, transitions, image importing.
+This project is made so all the elements are displayed correctly on popular screen sizes. Showing the different pieces and transtitions working across various screen sizes. Technologies used range from flexbox, transitions, image importing.
 
 **Figma**
 
