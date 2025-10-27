@@ -1,5 +1,7 @@
 .footer {
   margin: 0 auto;
+  max-width: 1280px;
+  width: 100%;
 }
 
 .footer__copyright {
@@ -11,4 +13,14 @@
   color: #212121;
   opacity: 70%;
   line-height: 100%;
+}
+
+@media screen and (max-width: 630px) {
+  .footer {
+    max-width: 288px;
+  }
+
+  .footer__copyright {
+    padding: 40px 0;
+  }
 }

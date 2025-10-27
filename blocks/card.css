@@ -35,11 +35,11 @@
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
+  cursor: pointer;
 }
 
 .card__like-button:hover {
   opacity: 100%;
-  cursor: pointer;
 }
 
 @media screen and (max-width: 630px) {
