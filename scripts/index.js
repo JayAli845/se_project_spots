@@ -44,7 +44,7 @@ newPostBtn.addEventListener("click", function () {
 });
 
 newPostCloseBtn.addEventListener("click", function () {
-  closeModal(NewPostModal);
+  closeModal(newPostModal);
 });
 
 function handleEditProfileSubmit(evt) {
