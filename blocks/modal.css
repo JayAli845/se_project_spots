@@ -11,6 +11,8 @@
   align-items: center;
   opacity: 0;
   transition: opacity 0.5s linear, visibility 0s linear 0.5s;
+  padding: 0 10px;
+  box-sizing: border-box;
 }
 
 .modal_is-opened {
@@ -26,6 +28,7 @@
   background-color: #fff;
   padding: 32px 50px;
   position: relative;
+  box-sizing: border-box;
 }
 
 .modal__close-btn {
@@ -38,7 +41,7 @@
   border: none;
   padding: 0;
   cursor: pointer;
-  transition: opacity 04s ease;
+  transition: opacity 0.4s ease;
   background: transparent;
 }
 
@@ -48,6 +51,10 @@
 
 .modal__title {
   margin: 0 0 32px;
+  font-size: 32px;
+  line-height: 1;
+  font-weight: 500;
+  color: #212121;
 }
 
 .modal__form {
@@ -57,12 +64,19 @@
 
 .modal__label {
   margin: 0 0 32px;
+  margin-top: 32px;
+  display: block;
 }
 
 .modal__input {
   display: block;
   margin: 8px 0 0;
   width: 100%;
+  border: 1px solid rgba(33, 33, 33, 0.4);
+  border-radius: 8px;
+  font-size: 20px;
+  padding: 16px 12px;
+  box-sizing: border-box;
 }
 
 .modal__input::placeholder {
