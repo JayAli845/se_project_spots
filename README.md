@@ -25,6 +25,7 @@ The way you'll do this at work is by exporting images directly from Figma — we
 - HTML
 - CSS
 - Responsive Design
+- JavaScript
 
 **Deployment**
 
