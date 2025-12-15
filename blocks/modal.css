@@ -13,6 +13,7 @@
   transition: opacity 0.5s linear, visibility 0s linear 0.5s;
   padding: 0 10px;
   box-sizing: border-box;
+  z-index: 9999;
 }
 
 .modal_is-opened {
@@ -156,6 +157,10 @@
 @media screen and (max-width: 630px) {
   .modal__container {
     padding: 22px 12px 12px;
+  }
+
+  .modal__container_type_preview {
+    padding: 0;
   }
 
   .modal__close-btn {
